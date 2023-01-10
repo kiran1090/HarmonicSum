@@ -1,14 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ee9bfe0b-b606-4eca-a36c-c854e1aa0519" name="Changes" comment="" />
+    <list default="true" id="ee9bfe0b-b606-4eca-a36c-c854e1aa0519" name="Changes" comment="first commit">
+      <change beforePath="$PROJECT_DIR$/src/HarmonicSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HarmonicSum.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2K7a1Rev5QJ1Zu5aeBbJ2WCXdFt" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -31,6 +43,29 @@
       <option name="presentableId" value="Default" />
       <updated>1673327863751</updated>
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1673327924857</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1673327924857</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
 </project>
